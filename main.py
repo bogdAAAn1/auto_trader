@@ -1,3 +1,4 @@
+import os
 import threading
 import webserver  # <-- наш Flask-сервер
 from strategy import run_strategy  # функция бота
