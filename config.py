@@ -10,3 +10,5 @@ BASE_URL = os.getenv("BASE_URL", "https://testnet.binance.vision/api")
 
 TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
 TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
+
+PORT = os.getenv("PORT")
