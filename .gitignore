@@ -1,0 +1,21 @@
+# Python кэш и файлы
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Виртуальные окружения
+venv/
+env/
+.venv/
+
+# Файлы окружения с секретами
+.env
+
+# Логи
+logs/
+*.log
+
+# IDE и редакторы
+.vscode/
+.idea/
+*.swp
